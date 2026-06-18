@@ -1,0 +1,9 @@
+order_id,customer_id,items,total,timestamp,status
+ORD001,C001,M001:Classic Beef Burger:5.99|M013:Coca-Cola:1.99,7.98,2026-06-10 12:30:00,billed
+ORD002,C002,M004:Margherita Pizza:8.99|M007:Caesar Salad:5.49|M014:Fresh Orange Juice:2.49,16.97,2026-06-10 13:15:00,billed
+ORD003,C003,M005:Pepperoni Pizza:10.49|M017:Garlic Bread:2.49|M013:Coca-Cola:1.99,14.97,2026-06-11 19:00:00,billed
+ORD004,C004,M009:Grilled Chicken Wrap:6.99|M018:Loaded Fries:3.49,10.48,2026-06-12 20:30:00,billed
+ORD005,C001,M002:Double Cheese Burger:7.49|M018:Loaded Fries:3.49|M015:Sparkling Water:1.49,12.47,2026-06-13 18:45:00,open
+ORD006,C006,M002:Double Cheese Burger:7.49|M006:Veggie Supreme Pizza:9.49,16.98,2026-06-17 13:01:10,open
+ORD007,C005,M001:Classic Beef Burger:5.99|M006:Veggie Supreme Pizza:9.49|M008:Garden Fresh Salad:4.99,20.47,2026-06-17 13:03:15,open
+ORD008,C007,M001:Classic Beef Burger:5.99|M002:Double Cheese Burger:7.49|M003:BBQ Bacon Burger:8.99,22.47,2026-06-17 13:29:53,open

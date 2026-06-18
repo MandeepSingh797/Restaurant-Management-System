@@ -1,0 +1,19 @@
+item_id,name,price,category
+M001,Classic Beef Burger,5.99,Burger
+M002,Double Cheese Burger,7.49,Burger
+M003,BBQ Bacon Burger,8.99,Burger
+M004,Margherita Pizza,8.99,Pizza
+M005,Pepperoni Pizza,10.49,Pizza
+M006,Veggie Supreme Pizza,9.49,Pizza
+M007,Caesar Salad,5.49,Salad
+M008,Garden Fresh Salad,4.99,Salad
+M009,Grilled Chicken Wrap,6.99,Wrap
+M010,Falafel Wrap,5.99,Wrap
+M011,Chocolate Lava Cake,4.49,Dessert
+M012,Vanilla Ice Cream,2.99,Dessert
+M013,Coca-Cola,1.99,Drink
+M014,Fresh Orange Juice,2.49,Drink
+M015,Sparkling Water,1.49,Drink
+M016,Tomato Soup,3.99,Starter
+M017,Garlic Bread,2.49,Starter
+M018,Loaded Fries,3.49,Side
